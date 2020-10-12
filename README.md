@@ -1,6 +1,6 @@
 # Основы программирования (на Pyret)
 
-Оригинал книги, на которой основаны материалы: https://papl.cs.brown.edu/2019
+Оригинал книги «Programming and Programming Languages»: https://papl.cs.brown.edu/2019
 
 WIP
 
